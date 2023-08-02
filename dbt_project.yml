@@ -1,9 +1,9 @@
-name: 'jaffle_shop'
+name: 'dbt_demo_project'
 
 config-version: 2
 version: '0.1'
 
-profile: 'jaffle_shop'
+profile: 'dbt_demo_project'
 
 model-paths: ["models"]
 seed-paths: ["seeds"]
